@@ -1,3 +1,4 @@
+# КR2: Бельская
 import os
 import socket
 
